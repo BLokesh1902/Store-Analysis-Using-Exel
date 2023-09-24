@@ -1,4 +1,4 @@
-# Store-Analysis-Using-Exel
+# Store-Analysis-Using-Excel
 
 This is an excel project where Vrinda store wants to create an annual sales report for the year 2022, so that vrinda can understand their customers and grow their business
 
